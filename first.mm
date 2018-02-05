@@ -1,0 +1,12 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1516466479817" ID="ID_396380354" MODIFIED="1516466517524" TEXT="New Mindmap">
+<node CREATED="1516466492357" ID="ID_994364555" MODIFIED="1516466507713" POSITION="right" TEXT="bottom countries"/>
+<node CREATED="1516466518777" ID="ID_1568924033" MODIFIED="1516466528666" POSITION="left" TEXT="top countries">
+<node CREATED="1516466532960" ID="ID_499893703" MODIFIED="1516466532960" TEXT=""/>
+</node>
+<node COLOR="#c72b2b" CREATED="1516466543903" HGAP="50" ID="ID_93118210" MODIFIED="1516466582760" POSITION="right" TEXT="sdfsfsf" VSHIFT="67">
+<node CREATED="1516466586100" ID="ID_1487630807" MODIFIED="1516466586100" TEXT=""/>
+</node>
+</node>
+</map>
